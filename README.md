@@ -1,6 +1,6 @@
 # Frontend Mentor - Tip calculator app solution
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). 
+This is a solution to the [Tip calculator app challenge on Hacknovate3.0
 
 ## Overview
 
@@ -13,9 +13,6 @@ Users should be able to:
 - Calculate the correct tip and total cost of the bill per person
 
 ### Screenshot
-
-![Mobile Version](images/Screen1.png)
-
 
 ![Desktop Version](images/Screen2.png)
 
@@ -43,28 +40,13 @@ To get a local copy up and running follow these simple example steps.
 - A preferred text editor for example VS Code.
 
 ### Install
-Clone this [GitHub Repo](https://github.com/chaw-bot/TipCalculator.git) to your computer on yourFolder by typing these commands in the terminal or download as a Zip file and extract.
+Clone this [GitHub Repo](https://github.com/Akhil-chaudhary/TipCalculator.git) to your computer on yourFolder by typing these commands in the terminal or download as a Zip file and extract.
 
 $ mkdir yourFolder
 
 $ cd yourFolder
 
-$ git clone https://github.com/chaw-bot/TipCalculator.git
-
-👤 **Author**
-
-- Frontend Mentor - [@chaw-bot](https://www.frontendmentor.io/profile/chaw-bot)
-- GitHub: [@chaw-bot](https://github.com/chaw-bot)
-- Twitter: [@chaw36422087](https://twitter.com/chaw36422087)
-- LinkedIn: [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/)
-
-## Acknowledgments
-
-Hat tip to [Frontend Mentor](https://www.frontendmentor.io/solutions) for the challenge and the template provided.
-
-## Contributors
-
-Thank you, [Beardless-sheik](https://github.com/Beardless-sheik) for your contribution. 😃
+$ git clone https://github.com/Akhil-chaudhary/TipCalculator.git
 
 ## 🤝 Contributing
 
