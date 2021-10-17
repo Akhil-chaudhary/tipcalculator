@@ -16,11 +16,6 @@ Users should be able to:
 
 ![Desktop Version](images/Screen2.png)
 
-### Links
-
-- Solution URL: [GitHub Repo](https://github.com/chaw-bot/TipCalculator/tree/main)
-- Live Site URL: [Depoyed version](https://tip-calculator-chaw-bot.vercel.app/)
-
 ## My process
 
 ### Built with
